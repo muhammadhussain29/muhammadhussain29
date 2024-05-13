@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML CSS JavaScript**
+- 💬 Ask me about **HTML CSS JavaScript PHP**
 
 - 📫 How to reach me **hussainmughal29@gmail.com**
 
