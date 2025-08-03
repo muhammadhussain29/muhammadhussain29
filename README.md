@@ -1,14 +1,14 @@
 ![Hero Image](assets/header.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain Mughal</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhussain29&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhussain29" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Full Stack Mern Development**
 
-- 💬 Ask me about **HTML CSS JavaScript PHP**
+- 💬 Ask me about **HTML CSS JavaScript React-JS Tailwind-Css**
 
 - 📫 How to reach me **hussainmughal29@gmail.com**
 
