@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-hussain-mughal-213069248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hussain-mughal-213069248" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hussain-mughal-213069248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hussain-mughal-213069248" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100009237347893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009237347893" height="30" width="40" /></a>
 <a href="https://instagram.com/m_hussain_mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hussain_mughal" height="30" width="40" /></a>
 </p>
