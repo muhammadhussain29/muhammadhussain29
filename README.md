@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="assets/header.jpg" alt="Muhammad Hussain" />
+  <img src="assets/header.png" alt="Muhammad Hussain" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
@@ -67,40 +67,30 @@ Building client applications using **Next.js, React, TypeScript, Node.js, Expres
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🎮 GameSwap Marketplace
-**Next.js • TypeScript • Tailwind CSS • Redux Toolkit • PostgreSQL**
+### 🎨 Frontend
 
-Client marketplace platform with:
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,bootstrap" />
+</p>
 
-- Authentication & role-based dashboards
-- Checkout, shipments & payouts
-- Barcode scanning & admin workflows
-- REST API integration & protected routes
+### ⚙️ Backend
 
-### ⏱️ Time Tracking & Invoicing SaaS
-**Next.js • TypeScript • Node.js • Express • MongoDB • Stripe**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-Full-stack SaaS for time tracking, invoicing and project management.
+### 🗄️ Database
 
-- Time tracking & reporting
-- Invoice generation
-- Subscription-based access
-- JWT authentication & RBAC
-- Stripe Checkout & webhooks
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
-### 📝 Notes Management App
-**React.js • JavaScript • Tailwind CSS**
+### 🔧 Tools
 
-Responsive CRUD application with local persistence, reusable components and a clean UI.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,mongodb,postgresql,tailwind,bootstrap,git,github,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -108,29 +98,14 @@ Responsive CRUD application with local persistence, reusable components and a cl
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=muhammadhussain29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     height="170"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhussain29&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhussain29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="170"
   />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhussain29&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
