@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="assets/header.png" alt="Muhammad Hussain" />
+  <img src="assets/header.png" alt="Muhammad Hussain" /> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
